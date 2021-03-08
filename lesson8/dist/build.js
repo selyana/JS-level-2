@@ -1,0 +1,1 @@
+(()=>{"use strict";let o=(o,s)=>o+s;const s=o=>10*o;o=(o,t)=>s(o)+s(t);const t=o;console.log(t(2,3))})();
